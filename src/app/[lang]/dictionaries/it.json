@@ -1,0 +1,290 @@
+{
+  "common": {
+    "reserve": "Prenota",
+    "reserveTable": "Prenota un tavolo",
+    "learnMore": "Scopri di più",
+    "viewMenu": "Scopri il menu",
+    "allPhotos": "Tutte le foto",
+    "contactUs": "Contattaci",
+    "ourPhilosophy": "La nostra filosofia",
+    "backToTop": "Torna su",
+    "skipToContent": "Vai al contenuto",
+    "scroll": "Scroll",
+    "phone": "+30 697 596 0329",
+    "address": "Sofokleous Dousmani 38",
+    "city": "Corfù 491 00",
+    "addressShort": "Sofokleous Dousmani 38 · Corfù",
+    "bookByPhone": "Prenota per telefono",
+    "openMenu": "Apri menu",
+    "closeMenu": "Chiudi menu",
+    "contact": "Contatti"
+  },
+  "nav": {
+    "home": "Home",
+    "philosophy": "Filosofia",
+    "menu": "Menu",
+    "gallery": "Galleria",
+    "ourStory": "La nostra storia",
+    "privateDining": "Sala Privata",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "tagline": "L'arte culinaria greca, rivisitata con sguardo contemporaneo"
+  },
+  "home": {
+    "philosophyQuote": "Attingiamo a generazioni di tradizione culinaria greca — e diamo a ogni piatto un'identità nuova, seguendo il ritmo delle stagioni e dell'isola stessa.",
+    "menuTitle": "Menu",
+    "menuDesc": "Cucina greca stagionale, elevata. Pastitsada, sofrito, polpo alla griglia, gemista — i sapori di Corfù, con un tocco contemporaneo.",
+    "menuSeasons": "Il menu potrebbe variare nel ristorante",
+    "galleryTitle": "Galleria",
+    "galleryPreviewLabels": ["Piatto", "Sala", "Cucina"],
+    "privateDiningTitle": "Private Dining",
+    "privateDiningDesc": "Un'esperienza gastronomica su misura per la vostra occasione — da cene private a eventi aziendali.",
+    "reservationsTitle": "Prenotazioni",
+    "reservationsDesc": "Vi aspettiamo con piacere. Chiamateci per riservare il vostro tavolo."
+  },
+  "accolades": {
+    "quote": "Una delle esperienze gastronomiche più apprezzate di Corfù",
+    "rating": "4.6 / 5 — Google",
+    "reviews": "500+ recensioni",
+    "topChoice": "Top Choice Corfu"
+  },
+  "philosophy": {
+    "title": "Filosofia",
+    "text1": "Al MeZen, cucinare è raccontare. Prendiamo i sapori profondi della cucina greca e li reinterpretiamo con tecnica moderna e amore per la materia prima.",
+    "text2": "Prodotti locali, materie prime di stagione e un profondo rispetto per la tradizione incontrano l'audacia della creazione.",
+    "pillar1Title": "Tradizione",
+    "pillar1Text": "Ricette che definiscono le cucine di Corfù da generazioni, custodite e mantenute vive.",
+    "pillar2Title": "Innovazione",
+    "pillar2Text": "Tecniche contemporanee, accostamenti inattesi, consistenze e sapori che sorprendono.",
+    "pillar3Title": "Ospitalità",
+    "pillar3Text": "Ogni sera si apparecchia come se aspettassimo amici — con calore, generosità e cura."
+  },
+  "menu": {
+    "title": "Menu",
+    "subtitle": "Il menu potrebbe variare nel ristorante",
+    "courses": [
+      {
+        "category": "Antipasti",
+        "subtitle": "Antipasti",
+        "dishes": [
+          { "name": "Frittelle di Zucchine", "description": "Frittelle croccanti di zucchine, feta, menta fresca, tzatziki" },
+          { "name": "Calamari Fritti", "description": "Calamari dorati e croccanti, limone" },
+          { "name": "Cozze al Vapore", "description": "Cozze fresche, vino bianco, aglio, prezzemolo" },
+          { "name": "Sardina alla Griglia", "description": "Salsa al limone e olio, erba cipollina" },
+          { "name": "Crocchetta di Patate", "description": "Salsa all'aglio, pesto di pomodori secchi" },
+          { "name": "Polpettine di Manzo", "description": "Chips di patate, salsa di pomodoro, crema di yogurt" },
+          { "name": "Soutzoukakia", "description": "Soutzoukakia alla griglia, pita, ceviche di insalata contadina, crema di yogurt ed erba cipollina" }
+        ]
+      },
+      {
+        "category": "Tradizione",
+        "subtitle": "Sapori della Tradizione",
+        "dishes": [
+          { "name": "Moussaka", "description": "Moussaka tradizionale, melanzane, macinato di manzo, besciamella cremosa" },
+          { "name": "Giouvetsi di Manzo", "description": "Manzo al forno, orzo, graviera, pomodoro" },
+          { "name": "Pastitsada", "description": "Manzo brasato lentamente, pasta fatta a mano, salsa alla cannella" },
+          { "name": "Sofrito", "description": "Manzo alla corfiota, aglio, vino bianco, purè di patate" },
+          { "name": "Filetto di Pesce Bianco", "description": "Filetto di pesce fresco, patate, aglio, limone, olio d'oliva" },
+          { "name": "Gemista", "description": "Pomodori e peperoni ripieni, riso, erbe aromatiche, olio d'oliva" }
+        ]
+      },
+      {
+        "category": "Mare",
+        "subtitle": "Frutti di Mare",
+        "dishes": [
+          { "name": "Branzino", "description": "Branzino fresco, patate, capperi, limone, olio d'oliva di Corfù" },
+          { "name": "Orata alla Griglia", "description": "Orata intera alla griglia, condimento al limone, erbe selvatiche" },
+          { "name": "Polpo alla Griglia", "description": "Polpo alla brace, fava" },
+          { "name": "Gamberi alla Griglia", "description": "Gamberi alla griglia, limone, prezzemolo fresco" }
+        ]
+      },
+      {
+        "category": "Carne",
+        "subtitle": "Carni",
+        "dishes": [
+          { "name": "T-Bone Steak", "description": "T-bone frollata, verdure arrosto, burro alle erbe" },
+          { "name": "Stinco d'Agnello", "description": "Cottura lenta 12 ore, timo, rosmarino, verdure di stagione" },
+          { "name": "Tomahawk di Maiale", "description": "Tomahawk di maiale 800g, verdure arrosto" },
+          { "name": "Strip Steak di Manzo", "description": "Strip steak di manzo, salsa al burro" },
+          { "name": "Tagliata di Manzo", "description": "Tagliata di manzo, rucola, parmigiano, balsamico" }
+        ]
+      },
+      {
+        "category": "Dolce",
+        "subtitle": "Dolci",
+        "dishes": [
+          { "name": "Bolscevico", "description": "Dolce tradizionale corfiota, strati di kataifi e crema pasticcera, spolverato di zucchero a velo" }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "La nostra storia",
+    "block1Title": "Un luogo con un'anima",
+    "block1Text1": "In un vicolo tranquillo della città vecchia di Corfù, lontano dalla folla, il MeZen offre uno sguardo nuovo sull'identità culinaria dell'isola.",
+    "block1Text2": "Il nostro spazio in pietra vi accoglie con calore — ogni dettaglio, dalle stoviglie alla musica, è pensato per rendere la vostra serata indimenticabile.",
+    "block2Title": "Locale. Stagionale. Autentico.",
+    "block2Text1": "Lavoriamo con i contadini e i pescatori dell'isola, scegliendo il meglio di ogni stagione. Dal polpo all'olio d'oliva, ogni ingrediente racconta una storia.",
+    "block2Text2": "Pastitsada, sofrito, filetto di pesce bianco — i grandi classici della cucina corfiota, rivisitati con tecnica moderna e profondo rispetto per le origini."
+  },
+  "privateDining": {
+    "title": "Private Dining",
+    "subtitle": "Il vostro tavolo, la vostra serata",
+    "text1": "Per cene private, ricorrenze speciali o incontri di lavoro, creiamo un'esperienza gastronomica su misura, esclusivamente per voi e i vostri ospiti.",
+    "text2": "Un'atmosfera unica in uno spazio riservato al vostro uso esclusivo.",
+    "features": ["Menu personalizzato", "Servizio dedicato", "Spazio riservato", "Fino a 30 ospiti"]
+  },
+  "contact": {
+    "title": "Contatti",
+    "subtitle": "Sarà un piacere accogliervi",
+    "reservationsTitle": "Prenotazioni",
+    "reservationsText": "Chiamateci per prenotare il vostro tavolo.",
+    "hours": "Orari",
+    "hoursValue": "Lunedì – Domenica",
+    "hoursTime": "11:00 – 00:30",
+    "addressLabel": "Indirizzo"
+  },
+  "gallery": {
+    "title": "Galleria",
+    "items": [
+      "Sapori da condividere",
+      "Calamari dorati",
+      "Pescato del giorno",
+      "Branzino alla brace",
+      "Sotto il pergolato",
+      "Quando cala la luce",
+      "Colori del tramonto",
+      "Bagliore di cristallo",
+      "In attesa degli ospiti",
+      "Ntakos di Corfù",
+      "Cozze & spiedini",
+      "Frittelle di zucchine",
+      "Pietra & tradizione",
+      "L'angolo rosso"
+    ],
+    "closeLightbox": "Chiudi",
+    "previousImage": "Immagine precedente",
+    "nextImage": "Immagine successiva",
+    "viewLabel": "Vedi"
+  },
+  "footer": {
+    "tagline": "Cucina greca contemporanea\nnel cuore di Corfù",
+    "menuLink": "Menu",
+    "galleryLink": "Galleria",
+    "aboutLink": "La nostra storia",
+    "contactTitle": "Contatti",
+    "hoursTitle": "Orari",
+    "hoursValue": "Lunedì – Domenica",
+    "hoursTime": "11:00 – 00:30",
+    "socialTitle": "Social",
+    "copyright": "© 2024–2026 MeZen Restaurant. Tutti i diritti riservati.",
+    "privacy": "Privacy",
+    "terms": "Termini",
+    "accessibility": "Accessibilità"
+  },
+  "metadata": {
+    "homeTitle": "MeZen Restaurant | Cucina greca contemporanea — Corfù",
+    "homeDescription": "Il MeZen è un ristorante greco contemporaneo nella città vecchia di Corfù — piatti stagionali radicati nella tradizione corfiota.",
+    "menuTitle": "Menu | MeZen Restaurant — Corfù",
+    "menuDescription": "Scoprite il menu del MeZen — cucina greca stagionale con un tocco contemporaneo, nel cuore di Corfù.",
+    "aboutTitle": "La nostra storia | MeZen Restaurant — Corfù",
+    "aboutDescription": "La storia del MeZen — ingredienti locali, cucina stagionale e uno sguardo moderno sulla cucina corfiota.",
+    "philosophyTitle": "Filosofia | MeZen Restaurant — Corfù",
+    "philosophyDescription": "Tradizione, innovazione, stagionalità — i principi che guidano ogni piatto al MeZen di Corfù.",
+    "galleryTitle": "Galleria | MeZen Restaurant — Corfù",
+    "galleryDescription": "Uno sguardo dentro il MeZen — i piatti, lo spazio, l'atmosfera.",
+    "privateDiningTitle": "Private Dining | MeZen Restaurant — Corfù",
+    "privateDiningDescription": "La vostra cena privata o evento al MeZen — menu su misura, servizio dedicato, una serata pensata intorno a voi.",
+    "contactTitle": "Contatti | MeZen Restaurant — Corfù",
+    "contactDescription": "Prenotate un tavolo al MeZen. Orari, indirizzo e contatti a Corfù.",
+    "privacyTitle": "Privacy | MeZen Restaurant — Corfù",
+    "privacyDescription": "Come il MeZen Restaurant gestisce i vostri dati personali, le prenotazioni e i cookie.",
+    "termsTitle": "Termini | MeZen Restaurant — Corfù",
+    "termsDescription": "Termini e condizioni per prenotazioni, servizio e utilizzo del sito web del MeZen Restaurant.",
+    "accessibilityTitle": "Accessibilità | MeZen Restaurant — Corfù",
+    "accessibilityDescription": "Il nostro impegno per rendere il MeZen Restaurant accessibile a tutti gli ospiti."
+  },
+  "privacy": {
+    "title": "Privacy",
+    "lastUpdated": "Marzo 2026",
+    "sections": [
+      {
+        "heading": "Informazioni Raccolte",
+        "content": "Quando effettuate una prenotazione o ci contattate, possiamo raccogliere il vostro nome, numero di telefono, indirizzo email e preferenze alimentari. Il nostro sito utilizza cookie essenziali per il corretto funzionamento. Non vendiamo né condividiamo i vostri dati personali con terzi a fini di marketing."
+      },
+      {
+        "heading": "Come Utilizziamo le Vostre Informazioni",
+        "content": "Utilizziamo le vostre informazioni esclusivamente per gestire la prenotazione, comunicare riguardo alla vostra visita e migliorare la vostra esperienza. Se vi iscrivete alla nostra newsletter, useremo la vostra email per aggiornamenti occasionali su menu stagionali ed eventi speciali."
+      },
+      {
+        "heading": "Cookie",
+        "content": "Il nostro sito utilizza cookie essenziali per il corretto funzionamento. Potremmo utilizzare anche cookie analitici per comprendere come i visitatori interagiscono con il sito. Potete gestire le preferenze dei cookie tramite le impostazioni del vostro browser."
+      },
+      {
+        "heading": "Conservazione dei Dati",
+        "content": "Conserviamo i dati delle prenotazioni fino a 12 mesi. Potete richiedere la cancellazione dei vostri dati personali in qualsiasi momento contattandoci direttamente."
+      },
+      {
+        "heading": "I Vostri Diritti",
+        "content": "In base al GDPR, avete il diritto di accedere, correggere o cancellare i vostri dati personali. Potete anche opporvi o limitare il trattamento. Per esercitare questi diritti, contattateci per telefono o email."
+      },
+      {
+        "heading": "Contatti",
+        "content": "Per domande su questa politica sulla privacy:\nMeZen Restaurant\nSofokleous Dousmani 38, Corfù 491 00, Grecia\n+30 697 596 0329"
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di Servizio",
+    "lastUpdated": "Marzo 2026",
+    "sections": [
+      {
+        "heading": "Prenotazioni",
+        "content": "Le prenotazioni sono consigliate e possono essere effettuate telefonicamente. Manteniamo i tavoli riservati per 15 minuti oltre l'orario di prenotazione. Per gruppi di 6 o più persone, contattateci direttamente."
+      },
+      {
+        "heading": "Cancellazioni",
+        "content": "Vi chiediamo gentilmente di avvisarci almeno 4 ore prima se dovete cancellare o modificare la prenotazione. Le cancellazioni tardive o le mancate presentazioni potrebbero influire sulle prenotazioni future."
+      },
+      {
+        "heading": "Politiche del Ristorante",
+        "content": "I bambini sono i benvenuti e faremo del nostro meglio per soddisfare esigenze alimentari e allergie — informateci al momento della prenotazione. Il MeZen è un locale per non fumatori."
+      },
+      {
+        "heading": "Private Dining",
+        "content": "Le disposizioni per il Private Dining sono soggette a un accordo separato, comprensivo di menu personalizzato e spesa minima. I termini di cancellazione saranno comunicati al momento della prenotazione."
+      },
+      {
+        "heading": "Responsabilità",
+        "content": "Il MeZen Restaurant presta la massima attenzione nella preparazione e nel servizio. Non possiamo accettare responsabilità per reazioni allergiche quando le informazioni sugli allergeni sono state fornite. Gli ospiti sono responsabili di informarci su eventuali allergie."
+      },
+      {
+        "heading": "Utilizzo del Sito",
+        "content": "Il contenuto di questo sito è fornito a scopo informativo. Tutti i testi, le immagini e gli elementi di design sono proprietà del MeZen Restaurant. Ci riserviamo il diritto di aggiornare questi termini in qualsiasi momento."
+      }
+    ]
+  },
+  "accessibility": {
+    "title": "Accessibilità",
+    "lastUpdated": "Ultimo aggiornamento: Marzo 2026",
+    "sections": [
+      {
+        "heading": "Il Nostro Impegno",
+        "content": "Il MeZen Restaurant si impegna a garantire che il nostro sito web e la nostra esperienza gastronomica siano accessibili a tutti gli ospiti, indipendentemente dalle capacità. Lavoriamo continuamente per migliorare l'accessibilità."
+      },
+      {
+        "heading": "Accessibilità del Sito",
+        "content": "Questo sito è stato sviluppato con attenzione all'accessibilità, seguendo le linee guida WCAG 2.1. Le caratteristiche includono struttura HTML semantica, navigazione da tastiera, compatibilità con screen reader, contrasto cromatico sufficiente e rispetto delle preferenze di riduzione del movimento."
+      },
+      {
+        "heading": "Al Ristorante",
+        "content": "Vi informiamo che l'accesso al nostro ristorante avviene tramite scale. Se avete esigenze specifiche di accessibilità — mobilità, vista, udito o alimentazione — fatecelo sapere al momento della prenotazione e faremo tutto il possibile."
+      },
+      {
+        "heading": "Feedback",
+        "content": "Accogliamo con piacere il vostro feedback sull'accessibilità del MeZen Restaurant. Se incontrate barriere o avete suggerimenti, contattateci:\n\n+30 697 596 0329\nSofokleous Dousmani 38, Corfù 491 00, Grecia"
+      }
+    ]
+  }
+}

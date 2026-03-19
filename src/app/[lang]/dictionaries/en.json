@@ -1,0 +1,290 @@
+{
+  "common": {
+    "reserve": "Reserve",
+    "reserveTable": "Reserve a Table",
+    "learnMore": "Learn more",
+    "viewMenu": "View the menu",
+    "allPhotos": "All photographs",
+    "contactUs": "Contact us",
+    "ourPhilosophy": "Our Philosophy",
+    "backToTop": "Back to top",
+    "skipToContent": "Skip to content",
+    "scroll": "Scroll",
+    "phone": "+30 697 596 0329",
+    "address": "Sofokleous Dousmani 38",
+    "city": "Corfu 491 00",
+    "addressShort": "Sofokleous Dousmani 38 · Corfu",
+    "bookByPhone": "Book by phone",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "contact": "Contact"
+  },
+  "nav": {
+    "home": "Home",
+    "philosophy": "Philosophy",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "ourStory": "Our Story",
+    "privateDining": "Private Dining",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Where Greek culinary heritage meets contemporary craft"
+  },
+  "home": {
+    "philosophyQuote": "We draw on generations of Greek culinary tradition — then reimagine every dish through a modern lens, guided by the seasons and the island itself.",
+    "menuTitle": "Menu",
+    "menuDesc": "Seasonal Greek cooking, refined. Pastitsada, sofrito, grilled octopus, gemista — the flavours of Corfu, presented with a contemporary sensibility.",
+    "menuSeasons": "The menu may differ in-store",
+    "galleryTitle": "Gallery",
+    "galleryPreviewLabels": ["Plated dish", "Dining room", "Kitchen"],
+    "privateDiningTitle": "Private Dining",
+    "privateDiningDesc": "An intimate dining experience tailored to your occasion — from private celebrations to corporate gatherings.",
+    "reservationsTitle": "Reservations",
+    "reservationsDesc": "We'd love to welcome you. Call us to reserve your table."
+  },
+  "accolades": {
+    "quote": "One of Corfu's most celebrated dining destinations",
+    "rating": "4.6 / 5 — Google",
+    "reviews": "500+ reviews",
+    "topChoice": "Top Choice Corfu"
+  },
+  "philosophy": {
+    "title": "Philosophy",
+    "text1": "At MeZen, cooking is storytelling. We take the deep-rooted flavours of Greek cuisine and reinterpret them with modern technique and a love for the ingredients.",
+    "text2": "Local produce, seasonal ingredients, and a deep respect for tradition meet the boldness of creation.",
+    "pillar1Title": "Tradition",
+    "pillar1Text": "Recipes that have defined Corfiot kitchens for generations, honoured and kept alive.",
+    "pillar2Title": "Innovation",
+    "pillar2Text": "Contemporary methods, unexpected combinations, textures and flavours you won't find elsewhere.",
+    "pillar3Title": "Hospitality",
+    "pillar3Text": "Every evening, a table is set as if we're expecting friends — with warmth, generosity, and care."
+  },
+  "menu": {
+    "title": "Menu",
+    "subtitle": "The menu may differ in-store",
+    "courses": [
+      {
+        "category": "Starters",
+        "subtitle": "Starters",
+        "dishes": [
+          { "name": "Courgette Fritters", "description": "Crispy courgette fritters, feta, fresh mint, tzatziki" },
+          { "name": "Fried Calamari", "description": "Golden fried calamari, lemon" },
+          { "name": "Steamed Mussels", "description": "Fresh mussels, white wine, garlic, parsley" },
+          { "name": "Grilled Sardine", "description": "Lemon-oil sauce, chives" },
+          { "name": "Potato Croquette", "description": "Garlic sauce, sun-dried tomato pesto" },
+          { "name": "Beef Meatballs", "description": "Potato crisps, tomato sauce, yoghurt cream" },
+          { "name": "Soutzoukakia", "description": "Grilled soutzoukakia, pita, village salad ceviche, yoghurt cream and chives" }
+        ]
+      },
+      {
+        "category": "Traditional & Local",
+        "subtitle": "Taste of Tradition",
+        "dishes": [
+          { "name": "Moussaka", "description": "Traditional moussaka, aubergine, beef mince, creamy béchamel" },
+          { "name": "Beef Giouvetsi", "description": "Oven-baked beef, orzo pasta, graviera cheese, tomato" },
+          { "name": "Pastitsada", "description": "Slow-braised beef, handmade pasta, cinnamon sauce" },
+          { "name": "Sofrito", "description": "Classic Corfiot beef, garlic, white wine, potato purée" },
+          { "name": "Fish Fillet Bianco", "description": "Fresh fish fillet, potatoes, garlic, lemon, olive oil" },
+          { "name": "Gemista", "description": "Stuffed tomatoes and peppers, rice, herbs, olive oil" }
+        ]
+      },
+      {
+        "category": "Sea",
+        "subtitle": "Seafood",
+        "dishes": [
+          { "name": "Sea Bass", "description": "Fresh sea bass, potatoes, capers, lemon, Corfu olive oil" },
+          { "name": "Sea Bream", "description": "Whole grilled sea bream, lemon-oil dressing, wild greens" },
+          { "name": "Grilled Octopus", "description": "Chargrilled octopus, fava" },
+          { "name": "Grilled Prawns", "description": "Prawns on the grill, lemon, fresh parsley" }
+        ]
+      },
+      {
+        "category": "Meat",
+        "subtitle": "Meat",
+        "dishes": [
+          { "name": "T-Bone Steak", "description": "Dry-aged T-bone, roasted vegetables, herb butter" },
+          { "name": "Lamb Shank", "description": "12-hour roast, thyme, rosemary, market vegetables" },
+          { "name": "Pork Tomahawk", "description": "Pork tomahawk 800g, roasted vegetables" },
+          { "name": "Beef Strip Steak", "description": "Beef strip steak, butter sauce" },
+          { "name": "Beef Tagliata", "description": "Sliced beef tagliata, rocket, parmesan, balsamic" }
+        ]
+      },
+      {
+        "category": "Dessert",
+        "subtitle": "Desserts",
+        "dishes": [
+          { "name": "Bolshevik", "description": "Traditional Corfiot cream pastry, layers of kataifi and custard, dusted with sugar" }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "Our Story",
+    "block1Title": "A sense of place",
+    "block1Text1": "Tucked into a quiet lane in Corfu's old town, away from the crowds, MeZen offers a fresh take on the island's rich culinary identity.",
+    "block1Text2": "Our stone-walled space welcomes you with warmth — every detail, from the tableware to the music, is designed to make your evening unforgettable.",
+    "block2Title": "Local. Seasonal. Honest.",
+    "block2Text1": "We partner with the island's farmers and fishermen, choosing the best of what each season offers. From the octopus to the olive oil, every ingredient has a story.",
+    "block2Text2": "Pastitsada, sofrito, fish fillet bianco — the classics of Corfiot cooking, reimagined with modern technique and deep respect for where they came from."
+  },
+  "privateDining": {
+    "title": "Private Dining",
+    "subtitle": "Your table, your evening",
+    "text1": "For private dinners, celebrations, or business gatherings, we create a bespoke dining experience exclusively for you and your guests.",
+    "text2": "A distinctive atmosphere in a space designed for your exclusive use.",
+    "features": ["Tailored menu", "Dedicated service", "Private space", "Up to 30 guests"]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We'd love to hear from you",
+    "reservationsTitle": "Reservations",
+    "reservationsText": "Give us a call to book your table.",
+    "hours": "Hours",
+    "hoursValue": "Monday – Sunday",
+    "hoursTime": "11:00 – 00:30",
+    "addressLabel": "Address"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "items": [
+      "Flavours to Share",
+      "Golden Calamari",
+      "Catch of the Day",
+      "Sea Bass on the Coals",
+      "Under the Canopy",
+      "When the Light Falls",
+      "Sunset Colours",
+      "Crystal Glow",
+      "Awaiting Guests",
+      "Corfiot Ntakos",
+      "Mussels & Skewers",
+      "Courgette Fritters",
+      "Stone & Heritage",
+      "The Red Corner"
+    ],
+    "closeLightbox": "Close lightbox",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "viewLabel": "View"
+  },
+  "footer": {
+    "tagline": "Contemporary Greek cuisine\nin the heart of Corfu",
+    "menuLink": "Menu",
+    "galleryLink": "Gallery",
+    "aboutLink": "Our Story",
+    "contactTitle": "Contact",
+    "hoursTitle": "Hours",
+    "hoursValue": "Monday – Sunday",
+    "hoursTime": "11:00 – 00:30",
+    "socialTitle": "Social",
+    "copyright": "© 2024–2026 MeZen Restaurant. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "accessibility": "Accessibility"
+  },
+  "metadata": {
+    "homeTitle": "MeZen Restaurant | Contemporary Greek Cuisine — Corfu",
+    "homeDescription": "MeZen is a contemporary Greek restaurant in Corfu's old town, serving seasonal dishes rooted in Corfiot tradition.",
+    "menuTitle": "Menu | MeZen Restaurant — Corfu",
+    "menuDescription": "Explore the MeZen menu — seasonal Greek cooking with a contemporary edge, in the heart of Corfu.",
+    "aboutTitle": "Our Story | MeZen Restaurant — Corfu",
+    "aboutDescription": "The story behind MeZen — local ingredients, seasonal cooking, and a modern take on Corfiot cuisine.",
+    "philosophyTitle": "Philosophy | MeZen Restaurant — Corfu",
+    "philosophyDescription": "Tradition, innovation, seasonality — the principles that guide every dish at MeZen in Corfu.",
+    "galleryTitle": "Gallery | MeZen Restaurant — Corfu",
+    "galleryDescription": "A look inside MeZen — the food, the space, the atmosphere.",
+    "privateDiningTitle": "Private Dining | MeZen Restaurant — Corfu",
+    "privateDiningDescription": "Host your private dinner or event at MeZen — tailored menus, dedicated service, an evening designed around you.",
+    "contactTitle": "Contact | MeZen Restaurant — Corfu",
+    "contactDescription": "Book a table at MeZen. Find our hours, address, and contact details in Corfu.",
+    "privacyTitle": "Privacy Policy | MeZen Restaurant — Corfu",
+    "privacyDescription": "How MeZen Restaurant handles your personal information, reservation data, and website cookies.",
+    "termsTitle": "Terms of Service | MeZen Restaurant — Corfu",
+    "termsDescription": "Terms and conditions for reservations, dining, and use of the MeZen Restaurant website.",
+    "accessibilityTitle": "Accessibility | MeZen Restaurant — Corfu",
+    "accessibilityDescription": "Our commitment to making MeZen Restaurant accessible to all guests, both online and in our dining room."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "March 2026",
+    "sections": [
+      {
+        "heading": "Information We Collect",
+        "content": "When you make a reservation or contact us, we may collect your name, phone number, email address, and dining preferences. Our website uses essential cookies to ensure proper functionality. We do not sell or share your personal data with third parties for marketing purposes."
+      },
+      {
+        "heading": "How We Use Your Information",
+        "content": "We use your information solely to manage your reservation, communicate with you about your visit, and improve your dining experience. If you subscribe to our newsletter, we will use your email to send occasional updates about seasonal menus and special events."
+      },
+      {
+        "heading": "Cookies",
+        "content": "Our website uses essential cookies required for the site to function correctly. We may also use analytics cookies to understand how visitors interact with our site. You can manage your cookie preferences through your browser settings at any time."
+      },
+      {
+        "heading": "Data Retention",
+        "content": "We retain your reservation data for up to 12 months to improve our service and accommodate returning guests. You may request deletion of your personal data at any time by contacting us directly."
+      },
+      {
+        "heading": "Your Rights",
+        "content": "Under GDPR, you have the right to access, correct, or delete your personal data. You may also object to or restrict the processing of your data. To exercise any of these rights, please contact us by phone or email."
+      },
+      {
+        "heading": "Contact",
+        "content": "For questions about this privacy policy or your personal data, please contact us at:\nMeZen Restaurant\nSofokleous Dousmani 38, Corfu 491 00, Greece\n+30 697 596 0329"
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "March 2026",
+    "sections": [
+      {
+        "heading": "Reservations",
+        "content": "Reservations are recommended and can be made by phone. We hold reserved tables for 15 minutes past the booking time. For parties of six or more, please contact us directly to arrange. We reserve the right to cancel reservations without notice in exceptional circumstances."
+      },
+      {
+        "heading": "Cancellations",
+        "content": "We kindly ask that you notify us at least 4 hours in advance if you need to cancel or modify your reservation. Late cancellations or no-shows may affect future booking availability."
+      },
+      {
+        "heading": "Dining Policies",
+        "content": "We welcome children and will do our best to accommodate dietary requirements and allergies — please inform us when booking. MeZen is a non-smoking establishment; smoking is permitted only in designated outdoor areas."
+      },
+      {
+        "heading": "Private Dining",
+        "content": "Private dining arrangements are subject to a separate agreement, including a tailored menu and minimum spend. Cancellation terms for private events will be communicated at the time of booking."
+      },
+      {
+        "heading": "Liability",
+        "content": "MeZen Restaurant takes every care in the preparation and service of food and beverages. However, we cannot accept liability for allergic reactions where allergen information has been provided. Guests are responsible for informing us of any allergies or dietary needs."
+      },
+      {
+        "heading": "Website Use",
+        "content": "The content on this website is provided for general information purposes. All text, images, and design elements are the property of MeZen Restaurant and may not be reproduced without permission. We reserve the right to update these terms at any time."
+      }
+    ]
+  },
+  "accessibility": {
+    "title": "Accessibility",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "Our Commitment",
+        "content": "MeZen Restaurant is committed to ensuring that our website and our dining experience are accessible to all guests, regardless of ability. We continually work to improve accessibility across all touchpoints."
+      },
+      {
+        "heading": "Website Accessibility",
+        "content": "This website has been built with accessibility in mind, following WCAG 2.1 guidelines. Features include semantic HTML structure, keyboard navigation support, screen reader compatibility, sufficient colour contrast, and respect for reduced motion preferences."
+      },
+      {
+        "heading": "At the Restaurant",
+        "content": "Please be aware that our restaurant is accessed via stairs. If you have specific accessibility needs — mobility, visual, hearing, or dietary — please let us know when making your reservation and we will do everything we can to ensure a comfortable experience."
+      },
+      {
+        "heading": "Feedback",
+        "content": "We welcome your feedback on the accessibility of MeZen Restaurant, whether online or in person. If you encounter any barriers or have suggestions for improvement, please contact us:\n\n+30 697 596 0329\nSofokleous Dousmani 38, Corfu 491 00, Greece"
+      }
+    ]
+  }
+}

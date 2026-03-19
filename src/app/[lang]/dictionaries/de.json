@@ -1,0 +1,290 @@
+{
+  "common": {
+    "reserve": "Reservieren",
+    "reserveTable": "Tisch reservieren",
+    "learnMore": "Mehr erfahren",
+    "viewMenu": "Zur Speisekarte",
+    "allPhotos": "Alle Bilder",
+    "contactUs": "Kontakt aufnehmen",
+    "ourPhilosophy": "Unsere Philosophie",
+    "backToTop": "Nach oben",
+    "skipToContent": "Zum Inhalt springen",
+    "scroll": "Scroll",
+    "phone": "+30 697 596 0329",
+    "address": "Sofokleous Dousmani 38",
+    "city": "Korfu 491 00",
+    "addressShort": "Sofokleous Dousmani 38 · Korfu",
+    "bookByPhone": "Telefonisch reservieren",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "contact": "Kontakt"
+  },
+  "nav": {
+    "home": "Startseite",
+    "philosophy": "Philosophie",
+    "menu": "Speisekarte",
+    "gallery": "Galerie",
+    "ourStory": "Unsere Geschichte",
+    "privateDining": "Privater Anlass",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline": "Griechische Kochkunst, neu gedacht"
+  },
+  "home": {
+    "philosophyQuote": "Wir schöpfen aus Generationen griechischer Küchentradition — und geben jedem Gericht eine zeitgemäße Handschrift, geleitet von den Jahreszeiten und der Insel selbst.",
+    "menuTitle": "Speisekarte",
+    "menuDesc": "Saisonale griechische Küche auf hohem Niveau. Pastitsada, Sofrito, Oktopus vom Grill, Gemista — die Aromen Korfus, zeitgemäß interpretiert.",
+    "menuSeasons": "Die Karte kann im Restaurant abweichen",
+    "galleryTitle": "Galerie",
+    "galleryPreviewLabels": ["Gericht", "Gastraum", "Küche"],
+    "privateDiningTitle": "Private Dining",
+    "privateDiningDesc": "Ein individuelles Genusserlebnis für Ihren besonderen Anlass — von privaten Feiern bis zu Geschäftsessen.",
+    "reservationsTitle": "Reservierung",
+    "reservationsDesc": "Wir freuen uns auf Ihren Besuch. Rufen Sie uns an, um Ihren Tisch zu reservieren."
+  },
+  "accolades": {
+    "quote": "Eines der gefragtesten kulinarischen Erlebnisse auf Korfu",
+    "rating": "4.6 / 5 — Google",
+    "reviews": "500+ Bewertungen",
+    "topChoice": "Top Choice Corfu"
+  },
+  "philosophy": {
+    "title": "Philosophie",
+    "text1": "Im MeZen ist Kochen Erzählkunst. Wir nehmen die tief verwurzelten Aromen der griechischen Küche und interpretieren sie mit modernem Handwerk und Liebe zu den Zutaten.",
+    "text2": "Lokale Produkte, saisonale Rohstoffe und tiefer Respekt vor der Tradition treffen auf den Mut zur Kreation.",
+    "pillar1Title": "Tradition",
+    "pillar1Text": "Rezepte, die seit Generationen die Küchen Korfus prägen — bewahrt und lebendig gehalten.",
+    "pillar2Title": "Innovation",
+    "pillar2Text": "Zeitgemäße Techniken, überraschende Kombinationen, Texturen und Aromen, die man so nicht erwartet.",
+    "pillar3Title": "Gastfreundschaft",
+    "pillar3Text": "Jeden Abend wird ein Tisch gedeckt, als würden wir Freunde erwarten — mit Herzlichkeit, Großzügigkeit und Sorgfalt."
+  },
+  "menu": {
+    "title": "Speisekarte",
+    "subtitle": "Die Karte kann im Restaurant abweichen",
+    "courses": [
+      {
+        "category": "Vorspeisen",
+        "subtitle": "Vorspeisen",
+        "dishes": [
+          { "name": "Zucchinipuffer", "description": "Knusprige Zucchinipuffer, Feta, frische Minze, Tzatziki" },
+          { "name": "Gebratene Calamari", "description": "Goldbraun frittierte Calamari, Zitrone" },
+          { "name": "Gedämpfte Miesmuscheln", "description": "Frische Miesmuscheln, Weißwein, Knoblauch, Petersilie" },
+          { "name": "Gegrillte Sardine", "description": "Zitronen-Öl-Sauce, Schnittlauch" },
+          { "name": "Kartoffelkrokette", "description": "Knoblauchsauce, Pesto aus getrockneten Tomaten" },
+          { "name": "Rinderfrikadellen", "description": "Kartoffelchips, Tomatensauce, Joghurtcreme" },
+          { "name": "Soutzoukakia", "description": "Gegrillte Soutzoukakia, Fladenbrot, Bauernsalat-Ceviche, Joghurtcreme und Schnittlauch" }
+        ]
+      },
+      {
+        "category": "Traditionell",
+        "subtitle": "Traditionelle Küche",
+        "dishes": [
+          { "name": "Moussaka", "description": "Traditionelle Moussaka, Aubergine, Rinderhack, cremige Béchamel" },
+          { "name": "Giouvetsi vom Rind", "description": "Geschmortes Rindfleisch, Kritharaki-Nudeln, Graviera-Käse, Tomate" },
+          { "name": "Pastitsada", "description": "Geschmortes Rindfleisch, handgemachte Pasta, Zimtsauce" },
+          { "name": "Sofrito", "description": "Korfiotisches Rindfleisch, Knoblauch, Weißwein, Kartoffelpüree" },
+          { "name": "Fischfilet Bianco", "description": "Frisches Fischfilet, Kartoffeln, Knoblauch, Zitrone, Olivenöl" },
+          { "name": "Gemista", "description": "Gefüllte Tomaten und Paprika, Reis, Kräuter, Olivenöl" }
+        ]
+      },
+      {
+        "category": "Meer",
+        "subtitle": "Meeresfrüchte",
+        "dishes": [
+          { "name": "Wolfsbarsch", "description": "Frischer Wolfsbarsch, Kartoffeln, Kapern, Zitrone, Olivenöl aus Korfu" },
+          { "name": "Goldbrasse", "description": "Ganze gegrillte Goldbrasse, Zitronen-Öl-Dressing, wilde Kräuter" },
+          { "name": "Gegrillter Oktopus", "description": "Oktopus vom Grill, Fava" },
+          { "name": "Gegrillte Garnelen", "description": "Garnelen vom Grill, Zitrone, frische Petersilie" }
+        ]
+      },
+      {
+        "category": "Fleisch",
+        "subtitle": "Fleischgerichte",
+        "dishes": [
+          { "name": "T-Bone Steak", "description": "Dry-aged T-Bone, Ofengemüse, Kräuterbutter" },
+          { "name": "Lammhaxe", "description": "12 Stunden geschmort, Thymian, Rosmarin, Marktgemüse" },
+          { "name": "Schweine-Tomahawk", "description": "Schweine-Tomahawk 800g, Ofengemüse" },
+          { "name": "Rinder-Strip-Steak", "description": "Rinder-Strip-Steak, Buttersauce" },
+          { "name": "Tagliata vom Rind", "description": "Tagliata vom Rind, Rucola, Parmesan, Balsamico" }
+        ]
+      },
+      {
+        "category": "Dessert",
+        "subtitle": "Desserts",
+        "dishes": [
+          { "name": "Bolschewik", "description": "Traditionelles korfiotisches Cremgebäck, Schichten aus Kataifi und Vanillecreme, bestäubt mit Puderzucker" }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "title": "Unsere Geschichte",
+    "block1Title": "Ein Ort mit Charakter",
+    "block1Text1": "Versteckt in einer ruhigen Gasse der Altstadt von Korfu, abseits des Trubels, bietet das MeZen einen frischen Blick auf die kulinarische Seele der Insel.",
+    "block1Text2": "Unser Steingewölbe empfängt Sie mit Wärme — jedes Detail, vom Geschirr bis zur Musik, ist darauf ausgelegt, Ihren Abend unvergesslich zu machen.",
+    "block2Title": "Regional. Saisonal. Authentisch.",
+    "block2Text1": "Wir arbeiten mit den Bauern und Fischern der Insel zusammen und wählen das Beste, was jede Saison bietet. Vom Oktopus bis zum Olivenöl — jede Zutat erzählt eine Geschichte.",
+    "block2Text2": "Pastitsada, Sofrito, Fischfilet Bianco — die Klassiker der korfiotischen Küche, neu gedacht mit modernem Handwerk und tiefem Respekt vor ihrem Ursprung."
+  },
+  "privateDining": {
+    "title": "Private Dining",
+    "subtitle": "Ihr Tisch, Ihr Abend",
+    "text1": "Für private Abendessen, Feierlichkeiten oder geschäftliche Anlässe schaffen wir ein exklusives Genusserlebnis ganz für Sie und Ihre Gäste.",
+    "text2": "Eine besondere Atmosphäre in einem Raum, der ganz für Sie reserviert ist.",
+    "features": ["Individuelles Menü", "Persönlicher Service", "Exklusiver Raum", "Bis zu 30 Gäste"]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir freuen uns auf Sie",
+    "reservationsTitle": "Reservierung",
+    "reservationsText": "Rufen Sie uns an, um Ihren Tisch zu reservieren.",
+    "hours": "Öffnungszeiten",
+    "hoursValue": "Montag – Sonntag",
+    "hoursTime": "11:00 – 00:30",
+    "addressLabel": "Adresse"
+  },
+  "gallery": {
+    "title": "Galerie",
+    "items": [
+      "Zum Teilen gemacht",
+      "Knusprige Calamari",
+      "Fang des Tages",
+      "Wolfsbarsch von der Glut",
+      "Unter dem Blätterdach",
+      "Wenn das Licht fällt",
+      "Farben der Dämmerung",
+      "Kristallschimmer",
+      "Bevor die Gäste kommen",
+      "Korfiotischer Ntakos",
+      "Muscheln & Spieße",
+      "Zucchinipuffer",
+      "Stein & Tradition",
+      "Die rote Ecke"
+    ],
+    "closeLightbox": "Ansicht schließen",
+    "previousImage": "Vorheriges Bild",
+    "nextImage": "Nächstes Bild",
+    "viewLabel": "Ansehen"
+  },
+  "footer": {
+    "tagline": "Zeitgemäße griechische Küche\nim Herzen von Korfu",
+    "menuLink": "Speisekarte",
+    "galleryLink": "Galerie",
+    "aboutLink": "Unsere Geschichte",
+    "contactTitle": "Kontakt",
+    "hoursTitle": "Öffnungszeiten",
+    "hoursValue": "Montag – Sonntag",
+    "hoursTime": "11:00 – 00:30",
+    "socialTitle": "Social",
+    "copyright": "© 2024–2026 MeZen Restaurant. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "accessibility": "Barrierefreiheit"
+  },
+  "metadata": {
+    "homeTitle": "MeZen Restaurant | Zeitgemäße griechische Küche — Korfu",
+    "homeDescription": "Das MeZen ist ein zeitgemäßes griechisches Restaurant in der Altstadt von Korfu — saisonale Gerichte, verwurzelt in korfiotischer Tradition.",
+    "menuTitle": "Speisekarte | MeZen Restaurant — Korfu",
+    "menuDescription": "Entdecken Sie die Speisekarte des MeZen — saisonale griechische Küche mit zeitgemäßem Anspruch, im Herzen von Korfu.",
+    "aboutTitle": "Unsere Geschichte | MeZen Restaurant — Korfu",
+    "aboutDescription": "Die Geschichte hinter dem MeZen — regionale Zutaten, saisonales Kochen und ein moderner Blick auf die korfiotische Küche.",
+    "philosophyTitle": "Philosophie | MeZen Restaurant — Korfu",
+    "philosophyDescription": "Tradition, Innovation, Saisonalität — die Prinzipien hinter jedem Gericht im MeZen auf Korfu.",
+    "galleryTitle": "Galerie | MeZen Restaurant — Korfu",
+    "galleryDescription": "Ein Blick ins MeZen — die Gerichte, der Raum, die Atmosphäre.",
+    "privateDiningTitle": "Private Dining | MeZen Restaurant — Korfu",
+    "privateDiningDescription": "Ihr privates Dinner oder Event im MeZen — individuelles Menü, persönlicher Service, ein Abend ganz nach Ihren Vorstellungen.",
+    "contactTitle": "Kontakt | MeZen Restaurant — Korfu",
+    "contactDescription": "Reservieren Sie Ihren Tisch im MeZen. Öffnungszeiten, Adresse und Kontakt auf Korfu.",
+    "privacyTitle": "Datenschutz | MeZen Restaurant — Korfu",
+    "privacyDescription": "Wie das MeZen Restaurant mit Ihren persönlichen Daten, Reservierungsdaten und Cookies umgeht.",
+    "termsTitle": "AGB | MeZen Restaurant — Korfu",
+    "termsDescription": "Allgemeine Geschäftsbedingungen für Reservierungen, Bewirtung und Nutzung der MeZen-Website.",
+    "accessibilityTitle": "Barrierefreiheit | MeZen Restaurant — Korfu",
+    "accessibilityDescription": "Unser Engagement, das MeZen Restaurant für alle Gäste zugänglich zu machen."
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "lastUpdated": "März 2026",
+    "sections": [
+      {
+        "heading": "Erhobene Daten",
+        "content": "Bei einer Reservierung oder Kontaktaufnahme erfassen wir gegebenenfalls Ihren Namen, Ihre Telefonnummer, E-Mail-Adresse und Ihre kulinarischen Präferenzen. Unsere Website verwendet notwendige Cookies für die ordnungsgemäße Funktion. Wir verkaufen oder teilen Ihre persönlichen Daten nicht zu Marketingzwecken mit Dritten."
+      },
+      {
+        "heading": "Verwendung Ihrer Daten",
+        "content": "Wir verwenden Ihre Daten ausschließlich zur Verwaltung Ihrer Reservierung, zur Kommunikation bezüglich Ihres Besuchs und zur Verbesserung Ihres Erlebnisses. Falls Sie unseren Newsletter abonnieren, senden wir Ihnen gelegentlich Informationen zu saisonalen Menüs und besonderen Veranstaltungen."
+      },
+      {
+        "heading": "Cookies",
+        "content": "Unsere Website verwendet notwendige Cookies für die korrekte Funktionalität. Wir verwenden möglicherweise auch Analyse-Cookies, um zu verstehen, wie Besucher mit unserer Website interagieren. Sie können Ihre Cookie-Einstellungen jederzeit über Ihren Browser verwalten."
+      },
+      {
+        "heading": "Datenspeicherung",
+        "content": "Wir speichern Ihre Reservierungsdaten bis zu 12 Monate. Sie können jederzeit die Löschung Ihrer persönlichen Daten beantragen, indem Sie uns direkt kontaktieren."
+      },
+      {
+        "heading": "Ihre Rechte",
+        "content": "Nach der DSGVO haben Sie das Recht auf Zugang, Berichtigung oder Löschung Ihrer persönlichen Daten. Sie können der Verarbeitung auch widersprechen oder diese einschränken. Um eines dieser Rechte auszuüben, kontaktieren Sie uns bitte telefonisch oder per E-Mail."
+      },
+      {
+        "heading": "Kontakt",
+        "content": "Bei Fragen zu dieser Datenschutzerklärung:\nMeZen Restaurant\nSofokleous Dousmani 38, Korfu 491 00, Griechenland\n+30 697 596 0329"
+      }
+    ]
+  },
+  "terms": {
+    "title": "AGB",
+    "lastUpdated": "März 2026",
+    "sections": [
+      {
+        "heading": "Reservierungen",
+        "content": "Reservierungen werden empfohlen und können telefonisch vorgenommen werden. Wir halten reservierte Tische 15 Minuten nach der Buchungszeit frei. Für Gruppen ab 6 Personen kontaktieren Sie uns bitte direkt."
+      },
+      {
+        "heading": "Stornierungen",
+        "content": "Wir bitten Sie, uns mindestens 4 Stunden im Voraus zu informieren, wenn Sie Ihre Reservierung stornieren oder ändern müssen. Verspätete Stornierungen oder Nichterscheinen können künftige Buchungen beeinflussen."
+      },
+      {
+        "heading": "Restaurantrichtlinien",
+        "content": "Kinder sind willkommen und wir bemühen uns, diätetische Anforderungen und Allergien zu berücksichtigen — bitte teilen Sie uns diese bei der Buchung mit. Das MeZen ist ein Nichtraucherlokal."
+      },
+      {
+        "heading": "Private Dining",
+        "content": "Private-Dining-Arrangements unterliegen einer separaten Vereinbarung, einschließlich eines individuellen Menüs und Mindestumsatzes. Stornierungsbedingungen für private Veranstaltungen werden bei der Buchung mitgeteilt."
+      },
+      {
+        "heading": "Haftung",
+        "content": "Das MeZen Restaurant nimmt größte Sorgfalt bei Zubereitung und Service. Wir können keine Haftung für allergische Reaktionen übernehmen, wenn Allergeninformationen bereitgestellt wurden. Gäste sind verpflichtet, uns über Allergien oder Ernährungsbedürfnisse zu informieren."
+      },
+      {
+        "heading": "Website-Nutzung",
+        "content": "Die Inhalte dieser Website dienen der allgemeinen Information. Alle Texte, Bilder und Designelemente sind Eigentum des MeZen Restaurant. Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu aktualisieren."
+      }
+    ]
+  },
+  "accessibility": {
+    "title": "Barrierefreiheit",
+    "lastUpdated": "Letzte Aktualisierung: März 2026",
+    "sections": [
+      {
+        "heading": "Unser Engagement",
+        "content": "Das MeZen Restaurant ist bestrebt, unsere Website und unser kulinarisches Erlebnis für alle Gäste zugänglich zu machen, unabhängig von ihren Fähigkeiten. Wir arbeiten kontinuierlich an der Verbesserung der Barrierefreiheit."
+      },
+      {
+        "heading": "Website-Barrierefreiheit",
+        "content": "Diese Website wurde unter Berücksichtigung der Barrierefreiheit erstellt und folgt den WCAG 2.1 Richtlinien. Funktionen umfassen semantische HTML-Struktur, Tastaturnavigation, Screenreader-Kompatibilität, ausreichenden Farbkontrast und Berücksichtigung von Bewegungsreduzierungspräferenzen."
+      },
+      {
+        "heading": "Im Restaurant",
+        "content": "Bitte beachten Sie, dass unser Restaurant über Treppen erreichbar ist. Wenn Sie besondere Anforderungen an die Barrierefreiheit haben — Mobilität, Sehen, Hören oder Ernährung — teilen Sie uns dies bitte bei Ihrer Reservierung mit und wir werden unser Bestes tun."
+      },
+      {
+        "heading": "Feedback",
+        "content": "Wir freuen uns über Ihr Feedback zur Barrierefreiheit des MeZen Restaurant. Wenn Sie auf Barrieren stoßen oder Verbesserungsvorschläge haben, kontaktieren Sie uns:\n\n+30 697 596 0329\nSofokleous Dousmani 38, Korfu 491 00, Griechenland"
+      }
+    ]
+  }
+}
