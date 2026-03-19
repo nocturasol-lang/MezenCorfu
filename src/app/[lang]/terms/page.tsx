@@ -28,7 +28,7 @@ export default async function TermsPage({ params }: { params: Promise<{ lang: st
         <section className="pb-[clamp(5rem,10vw,10rem)] px-6 md:px-10 lg:px-16">
           <div className="max-w-[750px] mx-auto">
             <p className="reveal text-center text-[0.8rem] text-[var(--color-text-muted)] uppercase tracking-[0.15em] mb-12 lg:mb-16">
-              Last updated: {dict.terms.lastUpdated}
+              {dict.terms.lastUpdated}
             </p>
 
             <div className="space-y-10 lg:space-y-14">

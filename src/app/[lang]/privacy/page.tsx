@@ -29,7 +29,7 @@ export default async function PrivacyPage({ params }: { params: Promise<{ lang: 
           <div className="max-w-[750px] mx-auto">
             {/* Last Updated */}
             <p className="text-center text-[0.8rem] uppercase tracking-[0.12em] text-[var(--color-text-muted)] opacity-60 mb-16 lg:mb-20 reveal">
-              Last updated: {dict.privacy.lastUpdated}
+              {dict.privacy.lastUpdated}
             </p>
 
             {/* Policy Sections */}
