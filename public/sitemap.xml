@@ -81,11 +81,4 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
-  <url>
-    <loc>https://darkorange-pig-624013.hostingersite.com/el/accessibility</loc>
-    <xhtml:link rel="alternate" hreflang="el" href="https://darkorange-pig-624013.hostingersite.com/el/accessibility"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://darkorange-pig-624013.hostingersite.com/en/accessibility"/>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
 </urlset>

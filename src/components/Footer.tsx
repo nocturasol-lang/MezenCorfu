@@ -6,7 +6,7 @@ interface FooterProps {
     footer: {
       tagline: string; menuLink: string; galleryLink: string; aboutLink: string;
       contactTitle: string; hoursTitle: string; hoursValue: string; hoursTime: string;
-      socialTitle: string; copyright: string; privacy: string; terms: string; accessibility: string;
+      socialTitle: string; copyright: string; privacy: string; terms: string;
     };
     common: { address: string; city: string; phone: string };
   };
@@ -102,7 +102,6 @@ export default function Footer({ lang, dict }: FooterProps) {
           <div className="flex gap-5 lg:gap-6 text-[0.65rem] lg:text-[0.7rem] text-[var(--color-text-muted)] uppercase tracking-[0.1em]">
             <Link href={`/${lang}/privacy`} className="hover:text-[var(--color-text)] transition-colors">{f.privacy}</Link>
             <Link href={`/${lang}/terms`} className="hover:text-[var(--color-text)] transition-colors">{f.terms}</Link>
-            <Link href={`/${lang}/accessibility`} className="hover:text-[var(--color-text)] transition-colors">{f.accessibility}</Link>
           </div>
         </div>
       </div>
