@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useEffect } from "react";
+import Image from "next/image";
 import { GALLERY_IMAGES } from "@/data/gallery-images";
 import PhotoFrame from "@/components/PhotoFrame";
 
@@ -74,10 +75,13 @@ export default function Gallery({ dict }: GalleryProps) {
             className="relative w-[90vw] h-[70vh] md:w-[80vw] md:h-[75vh] lg:w-[70vw] lg:h-[80vh] max-w-[1100px]"
             onClick={(e) => e.stopPropagation()}
           >
-            <img
+            <Image
               src={GALLERY_IMAGES[lightbox].src}
               alt={GALLERY_IMAGES[lightbox].alt}
-              className="w-full h-full object-contain"
+              fill
+              sizes="(max-width: 768px) 90vw, (max-width: 1024px) 80vw, 70vw"
+              className="object-contain"
+              quality={85}
             />
 
             <button

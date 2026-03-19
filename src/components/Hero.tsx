@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 interface HeroProps {
   dict: {
     hero: { tagline: string };
@@ -9,11 +11,14 @@ export default function Hero({ dict }: HeroProps) {
   return (
     <section className="relative w-full h-[100svh] min-h-[600px] lg:min-h-[700px] flex items-end justify-center overflow-hidden pb-[18vh] md:pb-[16vh] lg:pb-[14vh]">
       {/* Background image — slightly dimmed to reduce brightness competition */}
-      <div
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat brightness-[0.85]"
-        style={{ backgroundImage: "url('/images/hero.jpg')" }}
-        role="img"
-        aria-label="MeZen Restaurant — outdoor dining in Corfu's old town at night"
+      <Image
+        src="/images/hero.jpg"
+        alt="MeZen Restaurant — outdoor dining in Corfu's old town at night"
+        fill
+        sizes="100vw"
+        className="object-cover object-center brightness-[0.85]"
+        priority
+        quality={75}
       />
 
       {/* Overlay system — three layers for depth */}

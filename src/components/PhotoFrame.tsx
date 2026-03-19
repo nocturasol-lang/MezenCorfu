@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 
 interface PhotoFrameProps {
   src: string;
@@ -22,12 +23,15 @@ export default function PhotoFrame({
       className={`group relative ${aspect} bg-[var(--color-bg-surface)] overflow-hidden ${className}`}
     >
       {/* Image */}
-      <img
+      <Image
         src={src}
         alt={alt}
-        className="w-full h-full object-cover brightness-[0.85] contrast-[1.1] saturate-[0.85] transition-transform duration-700 ease-out group-hover:scale-105"
+        fill
+        sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 40vw"
+        className="object-cover brightness-[0.85] contrast-[1.1] saturate-[0.85] transition-transform duration-700 ease-out group-hover:scale-105"
         style={{ objectPosition: position }}
-        loading={priority ? "eager" : "lazy"}
+        priority={priority}
+        quality={80}
       />
 
       {/* Dark vignette overlay */}
