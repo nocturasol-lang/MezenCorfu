@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darkorange-pig-624013.hostingersite.com/sitemap.xml
