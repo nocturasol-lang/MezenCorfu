@@ -82,7 +82,7 @@ export default function Navigation({ lang, dict, alwaysSolid = false }: Navigati
     <>
       <a
         href="#main"
-        className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[200] focus:bg-[var(--color-accent)] focus:text-[var(--color-bg)] focus:px-4 focus:py-2 focus:rounded-full"
+        className="absolute w-px h-px overflow-hidden whitespace-nowrap [clip:rect(0,0,0,0)] border-0 p-0 -m-px focus:static focus:w-auto focus:h-auto focus:overflow-visible focus:whitespace-normal focus:[clip:auto] focus:m-0 focus:z-[200] focus:bg-[var(--color-accent)] focus:text-[var(--color-bg)] focus:px-4 focus:py-2 focus:rounded-full"
       >
         {dict.common.skipToContent}
       </a>
